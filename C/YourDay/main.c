@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#include "structure.c"
 
 
 int main(void)
 {
-
-
-    printf("Starting Inventory...");
+    printf("Starting YourDay ...");
     sleep(1);
     char getPassword[51];
     FILE *PassIN = fopen("password.txt", "r");
@@ -22,15 +22,16 @@ int main(void)
     fclose(PassIN);
     int password = atoi(getPassword);
     int inputPass = 0;
-    printf("Enter password:");
+    printf("\nEnter password:");
     scanf("%d", &inputPass);
-
-    while(inputPass != password)
+    do
     {
         printf("Incorrect password!");
-        printf("Enter password:");
+        printf("\nEnter password:");
         scanf("%d", &inputPass);
     }
-    printf("\nInventory empty.");
+    while(inputPass != password);
+
+    printf("Inventory empty.");
     return 0;
 }
