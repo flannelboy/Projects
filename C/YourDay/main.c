@@ -1,13 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "structure.c"
-
+#include <time.h>
 
 int main(void)
 {
+    time_t rawtime;
+    struct tm *t;
+
+    time(&rawtime);
+    t = localtime(&rawtime);
     printf("Starting YourDay ...");
     sleep(1);
+    printf("\nToday is %s", asctime(t));
+
     char getPassword[51];
     FILE *PassIN = fopen("password.txt", "r");
     if(PassIN == NULL)
@@ -22,6 +28,7 @@ int main(void)
     fclose(PassIN);
     int password = atoi(getPassword);
     int inputPass = 0;
+
     printf("\nEnter password:");
     scanf("%d", &inputPass);
     do
@@ -31,7 +38,7 @@ int main(void)
         scanf("%d", &inputPass);
     }
     while(inputPass != password);
-
     printf("Inventory empty.");
+
     return 0;
 }
