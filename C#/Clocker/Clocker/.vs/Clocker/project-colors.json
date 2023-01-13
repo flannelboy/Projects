@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6066646c-a50d-48ee-bea2-ff88f8aa8659": {
+      "ProjectGuid": "6066646c-a50d-48ee-bea2-ff88f8aa8659",
+      "DisplayName": "Clocker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

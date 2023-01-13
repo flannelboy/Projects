@@ -1,0 +1,15 @@
+{
+  "Name": "tien",
+  "Password": "w",
+  "Username": "q",
+  "Balance": 1999,
+  "AccountNumber": 248669,
+  "Transactions": [
+    {
+      "Amount": 1999,
+      "Date": "2022-02-16T17:23:13.9772109-06:00",
+      "Balance": 1999
+    }
+  ],
+  "Key": "fdf7388f-c637-4963-96e8-7d383ed53d3c"
+}

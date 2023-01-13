@@ -1,0 +1,98 @@
+[
+    {
+        "model" : "XT4",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/crossover-suvs/xt4/jellybeans/01-images/vehicles-suvs-xt4-v4.png?imwidth=420",
+        "moto" : "Confident, Spirited and Connected",
+        "class" : "SUV"
+    },
+
+    {
+        "model" : "XT5",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/crossover-suvs/xt5/jellybeans/01-images/vehicles-suvs-xt5-v3.png?imwidth=420",
+        "moto" : "Beautifully crafted utility",
+        "class" :"SUV"
+    },
+
+    {
+        "model" : "XT6",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/crossover-suvs/xt6/01-images/jellybeans/vehicles-suvs-xt6-sport-v4.png?imwidth=420",
+        "moto" : "Drive it to believe it",
+        "class" :"SUV"
+    },
+
+    {
+        "model" : "Escalade",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/crossover-suvs/escalade/jellybeans/01-images/vehicles-suvs-escalade.png?imwidth=420",
+        "moto" : "The original icon of arrival",
+        "class" :"SUV"
+    },
+
+    {
+        "model" : "Escalade ESV",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/crossover-suvs/escalade/jellybeans/01-images/vehicles-suvs-escalade-esv.png?imwidth=420",
+        "moto" : "Ambition on a grand scale",
+        "class" :"SUV"
+    },
+
+    {
+        "model" : "CT4",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicle-groups/all-vehicles/01-images/jellybeans/2021/shared-jellybeans-21-ct4-v2.png?imwidth=420",
+        "moto" : "Exhilaration like never before",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "CT4-V",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/sedans/ct4-v-bw/jellybeans/01-images/update/vehicles-sedans-ct4-v-v3.png?imwidth=420",
+        "moto" : "Redefine fun to drive",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "CT4-V Blackwing",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/sedans/ct4-v-bw/jellybeans/01-images/update/my22-vehicles-sedans-ct4-v-bw.png?imwidth=420",
+        "moto" : "Embrace the exhilarating",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "CT5",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/navigation/shared/jellybean_update/01_images/2021/shared-jellybeans-21-ct5-v2.png?imwidth=420",
+        "moto" : "Come to your senses",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "CT5-V",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/sedans/ct5-v-bw/jellybeans/01-images/vehicles-sedans-ct5-v-v4.png?imwidth=420",
+        "moto" : "Distinguished luxury performance",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "CT5-V Blackwing",
+        "maker" : "Cadillac",
+        "img" : "https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2022/sedans/ct5-v-bw/jellybeans/01-images/my22-vehicles-sedans-ct5-v-bw.png?imwidth=420",
+        "moto" : "Seize the ultimate",
+        "class" :"Sedan"
+    },
+
+    {
+        "model" : "Lyriq",
+        "maker" : "Cadillac",
+        "img" : "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdef24ef6200c-600wi",
+        "moto" : "Coming 2023",
+        "class" :"EV"
+        
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f246661-2c9a-44bd-89a9-111887b72025": {
+      "ProjectGuid": "0f246661-2c9a-44bd-89a9-111887b72025",
+      "DisplayName": "TLCAbstract",
+      "ColorIndex": 0
+    },
+    "664cbf6c-7cd1-4ddc-b1c6-77b4848376a1": {
+      "ProjectGuid": "664cbf6c-7cd1-4ddc-b1c6-77b4848376a1",
+      "DisplayName": "CarDatabase",
+      "ColorIndex": 1
+    },
+    "f355a888-94d9-4b19-92ef-1372f6d2864b": {
+      "ProjectGuid": "f355a888-94d9-4b19-92ef-1372f6d2864b",
+      "DisplayName": "CarDatabase",
+      "ColorIndex": 2
+    },
+    "27c01912-7126-4809-bb54-6881977e309d": {
+      "ProjectGuid": "27c01912-7126-4809-bb54-6881977e309d",
+      "DisplayName": "TLCVirtual",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

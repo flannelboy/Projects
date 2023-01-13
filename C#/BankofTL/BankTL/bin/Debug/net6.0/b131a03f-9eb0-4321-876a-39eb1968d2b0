@@ -1,0 +1,20 @@
+{
+  "Name": "Rodney",
+  "Password": "d",
+  "Username": "r",
+  "Balance": 1134,
+  "AccountNumber": 248669,
+  "Transactions": [
+    {
+      "Amount": 1023,
+      "Date": "2022-02-16T17:22:56.7550759-06:00",
+      "Balance": 1023
+    },
+    {
+      "Amount": 111,
+      "Date": "2022-02-16T17:23:00.122747-06:00",
+      "Balance": 1134
+    }
+  ],
+  "Key": "b131a03f-9eb0-4321-876a-39eb1968d2b0"
+}

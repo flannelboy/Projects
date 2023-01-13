@@ -1,0 +1,15 @@
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\TLCadillac.exe
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\TLCadillac.deps.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\TLCadillac.runtimeconfig.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\TLCadillac.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\ref\TLCadillac.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\bin\Debug\net6.0\TLCadillac.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\ref\TLCadillac.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\TLCadillac\TLCadillac\TLCadillac\obj\Debug\net6.0\TLCadillac.genruntimeconfig.cache

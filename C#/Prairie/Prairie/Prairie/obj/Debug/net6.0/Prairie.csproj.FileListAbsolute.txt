@@ -1,0 +1,15 @@
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\Prairie.exe
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\Prairie.deps.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\Prairie.runtimeconfig.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\Prairie.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\ref\Prairie.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\bin\Debug\net6.0\Prairie.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\ref\Prairie.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\Prairie\Prairie\Prairie\obj\Debug\net6.0\Prairie.genruntimeconfig.cache

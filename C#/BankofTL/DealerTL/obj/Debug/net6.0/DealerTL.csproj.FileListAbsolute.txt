@@ -1,0 +1,15 @@
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\DealerTL.exe
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\DealerTL.deps.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\DealerTL.runtimeconfig.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\DealerTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\ref\DealerTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\bin\Debug\net6.0\DealerTL.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\ref\DealerTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\DealerTL\obj\Debug\net6.0\DealerTL.genruntimeconfig.cache

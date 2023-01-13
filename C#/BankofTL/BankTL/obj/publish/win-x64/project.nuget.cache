@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkzBz/fHrF00lYAHc+UnO91iAwTRHUroVRsFXvaD2hV6FV66cNF9N3XP6QKuU+5mGsDjfCckyBBjE8T6S58aFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\BankTL\\BankTL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leduc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\leduc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\leduc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AccountLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        }
+      }
+    },
+    "net6.0/win-x64": {
+      "AccountLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AccountLibrary/AccountLibrary.csproj",
+      "msbuildProject": "../AccountLibrary/AccountLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AccountLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leduc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\BankTL\\BankTL.csproj",
+      "projectName": "BankTL",
+      "projectPath": "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\BankTL\\BankTL.csproj",
+      "packagesPath": "C:\\Users\\leduc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\BankTL\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\leduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\AccountLibrary\\AccountLibrary.csproj": {
+              "projectPath": "C:\\Users\\leduc\\OneDrive\\Documents\\Code\\C#\\BankofTL\\AccountLibrary\\AccountLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankTL": {
+      "commandName": "Project",
+      "commandLineArgs": "m"
+    }
+  }
+}

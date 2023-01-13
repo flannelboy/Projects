@@ -1,0 +1,62 @@
+{
+  "s": {
+    "Name": "Rodney",
+    "Password": "d",
+    "Username": "r",
+    "Balance": 0,
+    "AccountNumber": 248669,
+    "Transactions": [],
+    "Key": "38839334-2b77-4515-804c-b99959c18324"
+  },
+  "t": {
+    "Name": "Tien Le",
+    "Password": "l",
+    "Username": "t",
+    "Balance": 0,
+    "AccountNumber": 248669,
+    "Transactions": [],
+    "Key": "45fa1821-e46e-412a-8538-45746ca444c9"
+  },
+  "r": {
+    "Name": "Rodney",
+    "Password": "d",
+    "Username": "r",
+    "Balance": 0,
+    "AccountNumber": 248669,
+    "Transactions": [],
+    "Key": "1851b862-e4ee-4613-81ec-1f5eba6be336"
+  },
+  "le": {
+    "Name": "tien",
+    "Password": "tien",
+    "Username": "le",
+    "Balance": 0,
+    "AccountNumber": 248669,
+    "Transactions": [],
+    "Key": "80dbabcd-1d2a-446e-b45c-0dfded426b91"
+  },
+  "j": {
+    "Name": "John",
+    "Password": "n",
+    "Username": "j",
+    "Balance": 0,
+    "AccountNumber": 248669,
+    "Transactions": [],
+    "Key": "280ea7f5-b2e8-4220-9d31-52da6dc4d143"
+  },
+  "tien": {
+    "Name": "Tien",
+    "Password": "tien123",
+    "Username": "tien",
+    "Balance": 10000,
+    "AccountNumber": 248669,
+    "Transactions": [
+      {
+        "Amount": 10000,
+        "Date": "2022-08-11T22:36:00.9782732-05:00",
+        "Balance": 10000
+      }
+    ],
+    "Key": "7de14f8d-6963-471f-9462-9427ba740579"
+  }
+}

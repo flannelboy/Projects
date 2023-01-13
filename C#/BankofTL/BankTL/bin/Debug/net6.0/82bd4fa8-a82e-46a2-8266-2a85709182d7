@@ -1,0 +1,15 @@
+{
+  "Name": "Tien Le",
+  "Password": "L",
+  "Username": "T",
+  "Balance": 123123,
+  "AccountNumber": 248669,
+  "Transactions": [
+    {
+      "Amount": 123123,
+      "Date": "2022-02-21T00:36:15.3446395-06:00",
+      "Balance": 123123
+    }
+  ],
+  "Key": "82bd4fa8-a82e-46a2-8266-2a85709182d7"
+}

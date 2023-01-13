@@ -1,0 +1,15 @@
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\BankTL.exe
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\BankTL.deps.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\BankTL.runtimeconfig.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\BankTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\ref\BankTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\bin\Debug\net6.0\BankTL.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\ref\BankTL.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\BankofTL\BankTL\obj\Debug\net6.0\BankTL.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\linqtest.exe
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\linqtest.deps.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\linqtest.runtimeconfig.json
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\linqtest.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\ref\linqtest.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\bin\Debug\net6.0\linqtest.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\ref\linqtest.dll
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.pdb
+C:\Users\leduc\OneDrive\Documents\Code\C#\New folder\linqtest\linqtest\obj\Debug\net6.0\linqtest.genruntimeconfig.cache

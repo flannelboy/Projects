@@ -1,0 +1,20 @@
+{
+  "Name": "Lindsey Bui",
+  "Password": "B",
+  "Username": "L",
+  "Balance": 489,
+  "AccountNumber": 248669,
+  "Transactions": [
+    {
+      "Amount": 69,
+      "Date": "2022-02-21T00:34:42.7892353-06:00",
+      "Balance": 69
+    },
+    {
+      "Amount": 420,
+      "Date": "2022-02-21T00:35:25.6928057-06:00",
+      "Balance": 489
+    }
+  ],
+  "Key": "0ae028d5-1c05-4d79-ae80-e8590029dfcd"
+}
