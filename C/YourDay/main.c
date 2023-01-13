@@ -4,8 +4,8 @@
 #include <time.h>
 #include "structure.c"
 
-//when including a file, make sure that file is complete
-//otherwise, console will throw expect "{", before main.
+// >>>>> when including a file, make sure that file is complete <<<<<
+// >>>>> otherwise, console will throw expect "{", before main. <<<<<
 
 
 int main(void)
